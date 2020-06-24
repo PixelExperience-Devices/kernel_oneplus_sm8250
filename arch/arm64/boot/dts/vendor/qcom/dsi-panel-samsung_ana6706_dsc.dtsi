@@ -1785,5 +1785,6 @@
 			qcom,display-topology = <1 1 1>,<2 2 1>;
 			qcom,default-topology-index = <1>;
 		};
+		/delete-node/ timing@3;
 	};
 };
